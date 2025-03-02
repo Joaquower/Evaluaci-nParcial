@@ -100,8 +100,7 @@ while True:
 │── README.md             # Documentación principal
 ```
 
-###  Vista Previa
-*(Agrega capturas de pantalla o diagramas del proyecto aquí)*
+
 
 ###  Créditos.docs
 **Autor:** Joaquín Casillas González  
